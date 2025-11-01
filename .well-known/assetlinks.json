@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.revolve_by_preethi.app",
+      "sha256_cert_fingerprints": [
+        "c5:e9:8c:c4:0b:9a:73:64:4d:3c:bf:61:88:84:bd:bf:91:f8:d7:6f:a9:06:3f:0c:03:3a:40:55:97:f1:ad:9b"
+      ]
+    }
+  }
+]
